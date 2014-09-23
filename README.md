@@ -1,4 +1,4 @@
 phiddle.net
 ===========
 
-A dummy repo 
+A dummy repo for http://phiddle.net bug tracking.
